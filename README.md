@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I am Junior at the Universty of Delaware, studying computer science! This here has both my personal projects as well as some of my school work
 <!--
 **JJOC0205/JJOC0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
